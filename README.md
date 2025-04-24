@@ -13,10 +13,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Array
 |  |
@@ -39,4 +42,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
