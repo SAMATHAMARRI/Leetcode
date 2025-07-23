@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
