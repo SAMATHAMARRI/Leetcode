@@ -7,7 +7,7 @@ class Solution {
             int lastDig = x % 10;
             revNum = revNum * 10 + lastDig;
             x = x / 10;
-            if(revNum > Integer.MAX_VALUE){
+            if(revNum > ((1 << 31) - 1)){
                 return 0;
             }
         }
