@@ -79,4 +79,13 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
