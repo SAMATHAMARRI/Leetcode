@@ -5,14 +5,15 @@ class Solution {
             return nums[0];
         }
         dp[0] = nums[0];
-        dp[1] = nums[1];
-        int max = Math.max(dp[0], dp[1]);
-        for(int i = 2; i < nums.length; i++){
-            for(int j = 0; j <= i - 2; j++){
-                dp[i] = Math.max(dp[i], dp[j]+nums[i]);
-            }
-            max = Math.max(max, dp[i]);
+        
+        if(nums.length == 2){
+            return Math.max(nums[0], nums[1]);
         }
-        return max;
+        for(int i = 1; i < nums.length; i++){
+            if(i == 1) dp[i] = Math.max(dp[i - 1], nums[i]);
+            else
+                dp[i] = Math.max(dp[i -1], dp[i - 2] + nums[i]);
+        }
+        return dp[nums.length - 1];
     }
 }
