@@ -84,14 +84,21 @@
 | [0007-reverse-integer](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
