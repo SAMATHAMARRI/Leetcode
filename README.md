@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
