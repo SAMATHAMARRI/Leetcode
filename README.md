@@ -44,6 +44,7 @@
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
+| [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
+| [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
