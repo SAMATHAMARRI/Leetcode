@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
 ## Tree
 |  |
@@ -36,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
