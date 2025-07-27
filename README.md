@@ -45,6 +45,7 @@
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
