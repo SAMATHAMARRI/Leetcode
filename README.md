@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
