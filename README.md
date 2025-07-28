@@ -11,6 +11,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 ## Tree
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
+| [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
@@ -96,6 +98,7 @@
 | [0009-palindrome-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
