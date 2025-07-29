@@ -46,6 +46,7 @@
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
@@ -142,6 +143,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
