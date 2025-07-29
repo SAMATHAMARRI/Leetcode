@@ -7,11 +7,12 @@ class Solution {
                 count++;
             }
             else{
+                maxConsOnes = Math.max(maxConsOnes, count);
                 count = 0;
             }
-            maxConsOnes = Math.max(maxConsOnes, count);
 
         }
+        maxConsOnes = Math.max(maxConsOnes, count);
         return maxConsOnes;
     }
 }
