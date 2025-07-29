@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,8 +138,13 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
