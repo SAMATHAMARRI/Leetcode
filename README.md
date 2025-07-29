@@ -29,6 +29,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Binary Tree
@@ -48,6 +49,7 @@
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 | [0062-unique-paths](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -137,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Enumeration
@@ -147,4 +152,8 @@
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
