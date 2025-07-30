@@ -60,6 +60,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
