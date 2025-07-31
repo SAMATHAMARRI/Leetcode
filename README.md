@@ -69,6 +69,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Design
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
