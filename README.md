@@ -56,6 +56,7 @@
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
@@ -132,6 +133,7 @@
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
