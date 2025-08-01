@@ -1,5 +1,6 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
+        //O(n), n
         int positiveIdx = 0,negativeIdx = 1;
         int result[] = new int[nums.length];
         for(int i = 0; i < nums.length; i++){
