@@ -51,6 +51,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0416-partition-equal-subset-sum) |
