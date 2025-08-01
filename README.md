@@ -44,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 ## Breadth-First Search
@@ -127,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0064-minimum-path-sum) |
