@@ -1,25 +1,17 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        //O(n + n/2)
-        int negativeNum[] = new int[nums.length / 2];
-        int positiveNum[] = new int[nums.length / 2];
-        int j = 0, k = 0;
-        for(int num : nums){
-            if(num < 0){
-                negativeNum[j] = num;
-                j++;
+        int positiveIdx = 0,negativeIdx = 1;
+        int result[] = new int[nums.length];
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] < 0){
+                result[negativeIdx] = nums[i];
+                negativeIdx += 2;
             }
             else{
-                positiveNum[k] = num;
-                k++;
+                result[positiveIdx] = nums[i];
+                positiveIdx += 2;
             }
         }
-        for(int i = 0; i < nums.length / 2; i++){
-            nums[2 * i] = positiveNum[i];
-            nums[(2 * i) + 1] = negativeNum[i];
-
-        }
-        return nums;
-
+        return result;
     }
 }
