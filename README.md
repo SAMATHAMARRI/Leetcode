@@ -76,6 +76,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0075-sort-colors](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Database
 |  |
 | ------- |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
