@@ -68,6 +68,7 @@
 | [0485-max-consecutive-ones](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -85,6 +86,7 @@
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -185,6 +187,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sorting
