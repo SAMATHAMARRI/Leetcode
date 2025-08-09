@@ -139,6 +139,7 @@
 | [0062-unique-paths](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -167,6 +168,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
