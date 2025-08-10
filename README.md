@@ -89,6 +89,7 @@
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -141,6 +142,7 @@
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -191,6 +193,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
@@ -204,6 +207,7 @@
 | [0075-sort-colors](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Database
 |  |
@@ -219,6 +223,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Simulation
 |  |
