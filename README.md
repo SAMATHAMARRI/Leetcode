@@ -162,6 +162,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SAMATHAMARRI/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SAMATHAMARRI/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
