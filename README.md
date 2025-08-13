@@ -143,6 +143,7 @@
 | [0189-rotate-array](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SAMATHAMARRI/Leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
