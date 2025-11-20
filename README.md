@@ -27,6 +27,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
@@ -107,6 +108,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 ## String
 |  |
@@ -135,6 +137,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
@@ -259,4 +262,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/SAMATHAMARRI/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SAMATHAMARRI/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
